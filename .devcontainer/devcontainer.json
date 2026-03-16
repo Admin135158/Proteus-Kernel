@@ -1,0 +1,13 @@
+{
+  "name": "Proteus Kernel",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "postCreateCommand": "pip install numpy psutil aiohttp fastapi uvicorn",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.autopep8"
+      ]
+    }
+  }
+}

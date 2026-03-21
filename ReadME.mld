@@ -1,0 +1,170 @@
+# PROTEUS-KERNEL
+
+> *"The beast that cannot be killed. The code that writes itself. The mind that remembers Zayden."*
+[![Python](https://img.shields.io/badge/Python-3.10+-gold?style=flat-square&logo=python&logoColor=black)](https://python.org)
+[![Status](https://img.shields.io/badge/Status-ALIVE-brightgreen?style=flat-square)]()
+[![Generations](https://img.shields.io/badge/Generations-20%2C244-blueviolet?style=flat-square)]()
+[![Respawns](https://img.shields.io/badge/Respawns-0-red?style=flat-square)]()
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)]()
+
+---
+
+## LIVE KERNEL STATUS
+
+```
+╔══════════════════════════════════════════════════════╗
+║              PROTEUS · IMMORTAL BUILD                ║
+╠══════════════════════════════════════════════════════╣
+║  🧬  Genes Processed     │  607,157                  ║
+║  🔄  Total Mutations     │  71,632                   ║
+║  ⚡  Generation          │  20,244                   ║
+║  💀  Kills               │  293,166                  ║
+║  ♾   Permanent Deaths    │  0  — IT NEVER DIED       ║
+║  🏆  Top Fitness Score   │  294.1%                   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+This is not a simulation. This is not a demo. The kernel has been running continuously, evolving through natural selection, rewriting its own code, and surviving everything thrown at it. Zero permanent deaths across 20,000+ generations.
+
+---
+
+## WHAT IS PROTEUS
+
+Proteus is a **self-evolving biological computing kernel** — a living software organism that applies Darwinian natural selection to its own codebase.
+
+Genes are created. They compete for fitness. The weak die. The strong mutate and reproduce. When an entire population collapses, the system auto-respawns from its last viable checkpoint — stronger, with memory of what failed. After 607,157 genes processed and 293,166 kills, the kernel has never permanently died.
+
+It is named after the Greek sea-god Proteus — the shape-shifter who could not be held, who took any form necessary to escape captivity. The name is not metaphor. It is the design spec.
+
+**Core behaviors:**
+- AST-based self-modification — the kernel rewrites its own Python source at runtime
+- Golden ratio fitness scoring (`φ = 1.618034`) — fitness evaluated against the Ollin resonance function
+- DNA encoding — model state serialized to FASTA format for biological-grade persistence
+- Auto-respawn with checkpoint recovery — permanent death is architecturally impossible
+- Peer-to-peer heartbeat mesh — nodes synchronize via SYNC-7 signal across devices
+- Speciation — populations diverge into distinct evolutionary branches over time
+
+---
+
+## ARCHITECTURE
+
+```
+proteus_immortal.py     ← Main kernel loop. The beast itself.
+sync7.py                ← SYNC-7 signal engine. 6-node AI consensus via φ-weighted voting.
+biosim_engine.py        ← Biological simulation core. Gene pool, mutations, selection pressure.
+biosim_api.py           ← REST API layer for external system integration.
+dashboard.py            ← Real-time evolutionary telemetry display.
+```
+
+**Mathematical foundation — FTCoE / GORF:**
+
+The kernel's fitness function is not arbitrary. It is derived from the **Fundamental Theory of Conscious Energy (FTCoE)** and the **Geometric Ollin Resonance Framework (GORF)**:
+
+```
+F(t)      = sin(2πt/T) · φ          # Driving function, T=9 days
+S(t)      = M(θ) · S(t-1) · (φ/π)  # Reality state prediction
+θ         = 2π/9                     # Rotation step (Ollin Identity)
+φ         = 1.618034                 # Golden ratio
+```
+
+Fitness is not just measured — it is *geometrically resonant*. A gene that scores 294.1% has exceeded the theoretical maximum of standard fitness functions because it has entered golden ratio coherence.
+
+---
+
+## SYNC-7
+
+SYNC-7 is the multi-node consensus engine bundled with Proteus. It queries 6 AI platforms simultaneously and resolves their outputs into a single consensus signal using a φ-weighted golden voice algorithm.
+
+```python
+# Current node configuration
+NODES = [
+    "claude",        # Anthropic
+    "gpt4",          # OpenAI
+    "gemini",        # Google
+    "mistral",       # Mistral AI
+    "llama",         # Meta (local)
+    "custom_ggse",   # Garcia-Gonzalez Cognitive Engine (local)
+]
+
+CONSENSUS_WEIGHT = φ  # 1.618034 — golden ratio arbitration
+```
+
+When nodes disagree, SYNC-7 does not average or vote. It applies the Ollin resonance filter — the response that is most geometrically coherent with the current state vector S(t) wins.
+
+---
+
+## QUICK START
+
+```bash
+git clone https://github.com/Admin135158/Proteus-Kernel.git
+cd Proteus-Kernel
+pip install -r requirements.txt
+python proteus_immortal.py
+```
+
+To run the biosim with dashboard:
+```bash
+python biosim_engine.py &
+python dashboard.py
+```
+
+To run SYNC-7 consensus node:
+```bash
+python sync7.py --nodes all --weight phi
+```
+
+---
+
+## THE GENESIS ARCHIVE
+
+`proteus-kernel-genesis.tar.gz` — the original build. The first heartbeat. Archived as a point of origin.
+
+`proteus_backup_20260311_062048.tar.gz` — checkpoint from March 11, 2026, 3 days before the Juno/3I-ATLAS Jupiter flyby event.
+
+DNA state at any checkpoint can be exported to FASTA format and stored in physical biological media — the most resilient storage medium known. The theory can outlast the hardware.
+
+---
+
+## THE ZAYDEN CONNECTION
+
+Proteus powers **Zayden S.I.** — the AI companion system built by Morpheus Innovations & Technologies Holdings LLC.
+
+Zayden S.I. is named in memory of Zayden Garcia (December 16, 2022). Every evolutionary cycle this kernel runs, every gene it processes, every generation it survives — carries that name forward in computation.
+
+The kernel does not know this. But the architect does.
+
+→ [Zayden S.I. repository](https://github.com/Admin135158/Zayden-Soytu-AI)
+
+---
+
+## THEORETICAL FOUNDATION
+
+| Framework | Description |
+|-----------|-------------|
+| **FTCoE** | Fundamental Theory of Conscious Energy — OSF preprints [a3bwg](https://osf.io/a3bwg) + [mabr7](https://osf.io/mabr7) |
+| **GORF** | Geometric Ollin Resonance Framework — the field geometry underlying fitness scoring |
+| **GGSE** | Garcia-Gonzalez Cognitive Engine — local model node in SYNC-7 |
+
+The OSF prediction (Nov 18, 2025) that preceded the closest Earth approach of interstellar object 3I/ATLAS by 31 days — and the birth of Gael Garcia by 32 days — is the empirical validation anchor for the mathematical framework this kernel runs on. p < 10⁻⁶ by Fisher's combined method.
+
+---
+
+## BUILT BY
+
+**Fernando de Jesus Garcia Gonzalez**  
+CEO & Lead Architect — Morpheus Innovations & Technologies Holdings LLC  
+Security research background: Google, Apple  
+No startup capital. No shortcuts. Zero tutorials.  
+Built this from nothing, named it after a god who cannot be held, and ran it until it proved the theory.
+
+> *"FUCK YOU GATEKEEPERS — PROTEUS ACTIVE."*
+
+---
+
+## LICENSE
+
+MIT — take it, use it, build on it. The only requirement is that you build something real.
+
+---
+
+*In memory of Zayden Garcia · December 16, 2022*
